@@ -431,16 +431,16 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
-          description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
+    },{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-i-participated-at-the-rolls-royce-utc-annual-review-in-derby-with-a-poster-about-fpga-co-processing-for-civil-aerospace",
+          title: 'I participated at the Rolls-Royce UTC Annual Review in Derby, with a poster...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
