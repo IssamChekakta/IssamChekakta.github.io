@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: PostDoctoral Research Associate <a href='https://www.sheffield.ac.uk/eee/research/centres/control-monitoring-and-systems-engineering-utc'>RR-UTC, University of Sheffield</a>
+subtitle: Postdoctoral Research Associate <a href='https://www.sheffield.ac.uk/eee/research/centres/control-monitoring-and-systems-engineering-utc'>RR-UTC, University of Sheffield</a>
 
 profile:
   align: right
@@ -10,8 +10,7 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Amy Johnson Building, SoEEE</p>
-    <p>Portbello Street</p>
-    <p>Sheffield, S1 3JD</p>
+    <p>Portbello Street, Sheffield, S1 3JD</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
