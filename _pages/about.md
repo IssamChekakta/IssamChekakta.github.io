@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Research Associate <a href='https://www.sheffield.ac.uk/eee/research/centres/control-monitoring-and-systems-engineering-utc'>RR-UTC, University of Sheffield</a>
+subtitle: Postdoctoral Research Associate | <a href='https://www.sheffield.ac.uk/eee/research/centres/control-monitoring-and-systems-engineering-utc'>RR-UTC, University of Sheffield</a>
 
 profile:
   align: right
